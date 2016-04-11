@@ -1,0 +1,67 @@
+AUDREY TANG: 
+# Fork the gouvernement: kit de construction d'un discourse civilisé
+## "Digital convergence" on building consensus
+
+    Focus on conversation method and on meme expressed in a short way (feeling/opinion)
+
+
+- A statement on your position
+- A question to your driver?
+- An imaginary future with Uber
+
+
+Question spécifique
+Agenda participatif
+
+
+Overlapping consensus with *practise* not ideology
+
+With the pol.is system [http://docs.pol.is/] that has a special system of vote
+
+"We wanted to preserve minority opinions. We don’t use downvoting to invalidate upvoting. We don't use upvoting to invalidate upvoting. If we did, like other comment systems do: 200 upvotes + 200 downvotes = net zero votes. That math obscures the fact that there was some minority who felt differently, which we take as data to preserve. As we iterated, this took the form of creating and showing opinion groups.
+We wanted to create a system that increased the number of roles available. More roles means more data, and more interesting outcomes. Somewhere south of 1% of users comment. Most users lurk - read but don't interact in the community. Pol.is typically sees 10x more people vote than those who comment."
+
+Letting them express their feelings and opinions:
+
+I feel (weak)/ I think (strong) 10 seconds of attention
+
+
+If representation of population * opinion < 80% not put in the agenda
+
+At the end of the 4 weeks ==> 6 consensus brought to the gouv of transport
+Question to the governement of Transport
+
+shadow gouvernement open data by using 0 instead of o
+where data are published
+
+g0v.tw
+
+
+
+            Clicktivisme >>>> Hacktivisme
+Like/unlike | Share | Q&A Dicussion | Deliberation |Agenda planning
+
+Initial Survey > Agenda 6 monthes
+
+
+Recommandation and rought consensus to build the law as in Internet Society
+
+Comparaison entre les normes et la loi
+Gitbook ==> Discourse question or comment
+Chaque ligne de loi est justifiée 
+par une ligne de commentaire qui explique pourquoi la loi est écrite ainsi
+
+
+Premiere réuion du groupe de travail IRL après par mail
+
+
+Différentes mesures pour le consensus (6 Metrics)
+Hum, Smiley, More discussion, 
+generate consensus between online /offline teams
+
+
+
+Integration des ministères sur le discourse + gros travail de vulgarisatin et legalisation du discours
+
+automatic summary to policy makers
+
